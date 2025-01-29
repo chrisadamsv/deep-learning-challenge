@@ -27,6 +27,14 @@ The purpose of this analysis is to develop a machine learning model for data acq
 	3. Change to more optimal activation functions.
 	4. Add an additional hidden layer.
 	5. Double epochs to 200.
+- This is an image of the first model:
+  
+![Screenshot 2025-01-29 at 17 13 31](https://github.com/user-attachments/assets/dd37aa01-3056-4e99-90f0-529528ec8d69) <br>
+<br>
+This is an image of the optimized model:
+
+<img width="1013" alt="Screenshot 2025-01-29 at 17 13 04" src="https://github.com/user-attachments/assets/218a398f-69ae-433c-8123-ce546d056b64" /> <br>
+<br>
 
 ## Summary:
 Overall, the model performs slightly under the 75% performance goal at 71.87%. Several changes were made but the accuracy of the model only slightly improved to 72.23%. It still performs fairly well and I would recommend that the company use it but with a grain of salt. A different, more complex model with different hidden layers and activation could improve the model, or collecting more data to improve the accuracy.
